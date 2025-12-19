@@ -1,1 +1,1 @@
-code index untuk halaman awal
+code index untuk halaman awal index
